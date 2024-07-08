@@ -8,7 +8,8 @@ Harvester is a Free and Open-Source top-down space mining game made with the [Go
 But beware, as you are not alone out here. Pirate miners are out there and want to monopolize the business.
 
 
-![The player's ship, docked on an asteroid, mining][image](https://github.com/ginsaan/Harvest9/assets/145271166/73466d85-9fa9-4877-9c39-def5f9041819)
+![The player's ship, docked on an asteroid, mining][image]![image](https://github.com/ginsaan/Harvester-Game/assets/145271166/90e225f9-df60-4411-a84a-20eb9d7a4633)
+
 
 ## Summary
 
