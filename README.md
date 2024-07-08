@@ -3,17 +3,18 @@
 ![Banner of the project, showing stylized asteroids and ships in space](./img/banner.![image](https://github.com/ginsaan/Harvester-Game/assets/145271166/1d494070-7a3d-4f98-a406-60c2eb08b888)
 svg)
 
-Harvester is a Free and Open-Source top-down space mining game made with the [Godot game engine](https://godotengine.org/). Control your spaceship in forays into an asteroid belt, gather iron, and bring it back to base. Spend them on upgrading your ship's speed and maneuverability and cargo space.
+Harvester is a Free and Open-Source top-down space mining game made with the [Godot game engine](https://godotengine.org/) by Shashank . Control your spaceship in forays into an asteroid belt, gather iron, and bring it back to base. Spend them on upgrading your ship's speed and maneuverability and cargo space.
 
 But beware, as you are not alone out here. Pirate miners are out there and want to monopolize the business.
 
-➡ Follow us on [Twitter](https://twitter.com/NathanGDQuest) and [YouTube](https://www.youtube.com/c/gdquest/) for free game creation tutorials, tips, and news! Get one of our [Godot game creation courses](https://gdquest.mavenseed.com/) to support our work on Free Software.
 
-![The player's ship, docked on an asteroid, mining](./img/harvester-v1.0-mining.png)
+![The player's ship, docked on an asteroid, mining](![image](https://github.com/ginsaan/Harvester-Game/assets/145271166/05abe9af-abd1-41d8-8862-759cbc2fc5dd)
+)
 
 ## Summary
 
-The player begins with a ship at their space station in a relatively large, procedurally generated map filled with asteroids. Their job is to navigate their way to find asteroid pockets, dock with them to mine, then dock with the station to drop them off and earn an upgrade.
+The player begins with a ship at their space station in a relatively l![image](https://github.com/ginsaan/Harvester-Game/assets/145271166/73466d85-9fa9-4877-9c39-def5f9041819)
+arge, procedurally generated map filled with asteroids. Their job is to navigate their way to find asteroid pockets, dock with them to mine, then dock with the station to drop them off and earn an upgrade.
 
 As they accumulate iron, enemy pirates spawn around asteroid pockets. This forces the player to take different paths until they can destroy the interlopers.
 
@@ -30,7 +31,8 @@ If you want to contribute to the project, for instance by fixing a bug or adding
 1. [Contributor's guidelines](https://www.gdquest.com/docs/guidelines/contributing-to/gdquest-projects/).
 1. [GDScript style guide](https://www.gdquest.com/docs/guidelines/best-practices/godot-gdscript/)
 
-![A ship is exploding after an encounter with pirates](./img/harvester-v1.0-explosion.png)
+![A ship is exploding after an encounter with pirates](![image](https://github.com/ginsaan/Harvester-Game/assets/145271166/a0717d67-a2b1-494c-9df2-71e88f953fc6)
+)
 
 ## Development
 
