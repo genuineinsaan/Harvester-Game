@@ -30,8 +30,8 @@ If you want to contribute to the project, for instance by fixing a bug or adding
 1. [Contributor's guidelines](https://www.gdquest.com/docs/guidelines/contributing-to/gdquest-projects/).
 1. [GDScript style guide](https://www.gdquest.com/docs/guidelines/best-practices/godot-gdscript/)
 
-![A ship is exploding after an encounter with pirates](![image](https://github.com/ginsaan/Harvester-Game/assets/145271166/a0717d67-a2b1-494c-9df2-71e88f953fc6)
-)
+![A ship is exploding after an encounter with pirates](![image]![image](https://github.com/ginsaan/Harvester-Game/assets/145271166/b2183ccc-22fd-49d1-8996-348df525d73d)
+
 
 ## Development
 
