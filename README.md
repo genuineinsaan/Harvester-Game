@@ -1,6 +1,7 @@
 # Harvester
 
-![Banner of the project, showing stylized asteroids and ships in space](./img/banner.svg)
+![Banner of the project, showing stylized asteroids and ships in space](./img/banner.![image](https://github.com/ginsaan/Harvester-Game/assets/145271166/1d494070-7a3d-4f98-a406-60c2eb08b888)
+svg)
 
 Harvester is a Free and Open-Source top-down space mining game made with the [Godot game engine](https://godotengine.org/). Control your spaceship in forays into an asteroid belt, gather iron, and bring it back to base. Spend them on upgrading your ship's speed and maneuverability and cargo space.
 
