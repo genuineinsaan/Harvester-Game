@@ -8,13 +8,11 @@ Harvester is a Free and Open-Source top-down space mining game made with the [Go
 But beware, as you are not alone out here. Pirate miners are out there and want to monopolize the business.
 
 
-![The player's ship, docked on an asteroid, mining](![image](https://github.com/ginsaan/Harvester-Game/assets/145271166/05abe9af-abd1-41d8-8862-759cbc2fc5dd)
-)
+![The player's ship, docked on an asteroid, mining][image](https://github.com/ginsaan/Harvest9/assets/145271166/73466d85-9fa9-4877-9c39-def5f9041819)
 
 ## Summary
 
-The player begins with a ship at their space station in a relatively l![image](https://github.com/ginsaan/Harvester-Game/assets/145271166/73466d85-9fa9-4877-9c39-def5f9041819)
-arge, procedurally generated map filled with asteroids. Their job is to navigate their way to find asteroid pockets, dock with them to mine, then dock with the station to drop them off and earn an upgrade.
+The player begins with a ship at their space station in a relatively large, procedurally generated map filled with asteroids. Their job is to navigate their way to find asteroid pockets, dock with them to mine, then dock with the station to drop them off and earn an upgrade.
 
 As they accumulate iron, enemy pirates spawn around asteroid pockets. This forces the player to take different paths until they can destroy the interlopers.
 
